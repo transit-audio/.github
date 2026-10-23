@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/transit-audio/transit/transit/assets/brand/transit-wordmark-white.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/transit-audio/transit/transit/assets/brand/transit-wordmark-graphite.svg">
-    <img alt="transit" src="https://raw.githubusercontent.com/transit-audio/transit/transit/assets/brand/transit-wordmark-graphite.svg" width="320">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/transit-audio/transit/main/assets/brand/transit-wordmark-white.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/transit-audio/transit/main/assets/brand/transit-wordmark-graphite.svg">
+    <img alt="transit" src="https://raw.githubusercontent.com/transit-audio/transit/main/assets/brand/transit-wordmark-graphite.svg" width="320">
   </picture>
 </p>
 
